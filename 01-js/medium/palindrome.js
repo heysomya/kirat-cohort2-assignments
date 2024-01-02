@@ -34,8 +34,4 @@ function isPalindrome(str) {
   }
   return true;
 }
-
-console.log(isPalindrome('Katsak'));
-// const s = 'SSSS';
-// console.log(isAlNum());
 module.exports = isPalindrome;
